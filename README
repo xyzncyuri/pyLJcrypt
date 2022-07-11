@@ -1,0 +1,5 @@
+To Encrypt files:
+crypt.encrypt(filename, keyname)
+
+To Decrypt files:
+crypt.decrypt(filename, keyname)
